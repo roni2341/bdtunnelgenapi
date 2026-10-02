@@ -1,5 +1,4 @@
-}
-  "bdtunnelvpn": [
+ "bdtunnelvpn": [
     {
       "User": "bdtunnelvpn",
       "app_name": "BD TUNNEL VPN GEN",
@@ -14,4 +13,3 @@
     "Passcode": "bdtunnelvpn",
     "Message": "SYSTEM MAINTENANCE & SECURITY UPDATE\n\nDear Valued User,\n\nOur system has detected that this version of the application is no longer aligned with our latest security protocols and server optimizations. To ensure a seamless and secure connection, we have temporarily suspended access to this version.\n\n--------------------------------------------\n\nREQUIRED ACTION:\n\n1. Please uninstall this version immediately.\n2. Visit our official Telegram Channel or Website to download the Latest Version.\n3. Clear your app data after installation to apply the new configurations.\n\nWe apologize for the interruption. This maintenance is necessary to provide you with a faster and more stable browsing experience.\n\nThank you for your cooperation.\n— SabDevz Technical Team"
   }
-}
